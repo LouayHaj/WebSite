@@ -1,0 +1,229 @@
+body
+{
+	background-color: #edebe6;
+}
+
+.clear 
+{
+	clear: both;
+}
+
+#wrapper
+{
+	height: 80px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+header
+{		
+		background-color: #f2f2f2;
+		font-size: 20px;
+		padding: 10px;
+		border: 1px solid #dedcd9;
+		
+		
+}
+header img
+{
+	margin-left: 300px;
+	padding-top: 10px;
+	
+}
+
+header p
+{ 
+
+	color: #00ff00;
+	font-family: courier;
+	float: right;
+}
+#header
+{
+	width: 100%;
+	height: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -1px;
+	background-color: #00adbc;
+
+}
+
+#header ol
+{
+	list-style-type: none;
+	float: left;
+	padding: 5px;
+}
+
+#header ol li 
+{
+	padding: 10px;
+	display: inline;
+	margin-left: 10px;
+
+
+}
+
+
+
+#header a 
+{
+	color: #fff;
+	font-family: arial;
+	padding: 15px;
+	padding-top: 5px;
+	text-decoration: none;
+}
+	
+#header nav a:hover
+{
+	text-decoration: underline;
+	background-color: #009bbf;
+	padding: 20px;
+	
+	
+}
+
+
+section
+{
+	background-color: #f2f2f2;
+	float: left;
+	padding:15px;
+	padding-top: 15px;
+	width: 873px;
+	height: 450px;
+}
+
+section iframe
+{
+	border: 2px solid #777;
+	border-radius: 5px;
+	margin-left: 30px;
+	padding-bottom: 10px;
+	margin-top: 5px;
+
+}
+
+aside 
+{
+	float: right;
+	width:400px;
+	height: 440px;
+	padding: 15px;
+	padding-top: 15px;
+	background-color: #f2f2f2;
+}
+
+aside iframe
+{
+	width: 278px;
+	height: 100px;
+	padding: 15px;
+
+
+}
+
+aside a:hover 
+{
+	color: black;
+
+}
+
+/* Start Section clasess */ 
+}
+.index-post
+{
+	height: 125px;
+	margin: 20px;
+}
+
+.index-post img
+{
+	float: left;
+	border: 1px solid #d2dcd9;
+	width:100px;
+	height: 100px;
+	padding: 5px;
+	margin-right: 5px;
+}
+
+ .index-post a 
+{
+	text-decoration: none;
+	color: #777;
+	font-size: 16px;
+	width: 600;
+}
+
+.title-links
+{
+	text-decoration: none;
+	color: #777;
+	font-size: 24px;
+	width: 600;
+	padding: 5px;
+}
+
+
+
+aside img
+{
+
+	padding: 5px;
+	border-radius: 15px;
+}
+
+aside audio
+{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+footer
+{
+	clear: both;
+	padding: 10px;
+	background-color: #7665a0;
+	margin-bottom: 15px;
+}
+
+footer ul
+{
+	list-style: none;
+	padding: 10px;
+	margin: 0px;
+}
+
+footer ul li
+{
+	margin-right: 10px;
+	display: inline;
+}
+
+
+footer p 
+{
+	float: right;
+	margin: 0px;
+	padding: 10px;
+	padding-right: 15px;
+	color: white;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+footer a 
+{
+	text-decoration: none;
+	color: #fff;
+	padding: 10px;
+}
+footer a:hover
+{
+	color: black;
+	text-decoration: underline;
+}
